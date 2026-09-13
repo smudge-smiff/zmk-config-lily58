@@ -27,7 +27,6 @@
 include:
   - board: nice_nano_v2
     shield: lily58_left
-    cmake-args: -DDTC_OVERLAY_FILE=${ZMK_CONFIG}/lily58_left_override.overlay
 
   - board: nice_nano_v2
     shield: lily58_right
